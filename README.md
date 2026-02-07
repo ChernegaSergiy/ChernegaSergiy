@@ -1,63 +1,43 @@
-# Hi, I'm Serhii! 👋
+## About me
 
-## About Me
+I'm Serhii Cherneha, a developer from Ukraine.
 
-I’m a developer who believes that even the simplest tools — like **CSS** — can change lives.
+My focus is on making technology clear, accessible, and genuinely useful through simple tools and thoughtful solutions.
 
-You don’t have to be an expert to make a difference. I live by this every day, and through small, thoughtful steps, I try to make the digital world a better, more humane place — both for myself and for others.
+> "CSS will change the world!"  
+> — A personal belief that even the simplest tools can make a real difference.
 
-I focus on making technology clear, accessible, and genuinely useful. I create solutions that solve real-world problems, simplify workflows, and bring clarity where complexity once stood. For me, code is more than logic — it's a way to help, express, and create meaning.
+### Background
 
-In my work, **creativity and structure go hand in hand**. Whether it's a single line of CSS or a full system architecture, I care deeply about every detail. And I try to inspire others to believe that they can shape the digital world too — starting with what they already know.
+I am currently a 1st-year student at Vinnytsia National Technical University (VNTU), pursuing a degree in Automation, Computer-Integrated Technologies, and Robotics.
 
-> 💡 **“CSS will change the world.”**  
-> Not just a motto — a belief I live by. It changed my life, and I believe it can change yours too.
+I've been actively contributing to open-source projects since 2020, with focus on PHP development, Telegram bots, and Minecraft: Bedrock Edition tooling.
 
----
+Active involvement in the Minecraft: Bedrock community through [NewLand Games](https://github.com/newlandpe) server development and [XAuth Ecosystem](https://github.com/xauth-ecosystem) — an authentication system for Minecraft servers.
 
-## 🏗️ Current Projects
+### Current projects
 
-- **Fyennyi Journal**  
-  The first Ukrainian portal for Minecraft: Bedrock Edition reviews — focused on quality content, independent creators, and community voice.
+I'm working on various open-source tools and systems:
 
-- **Cohere's Coral**  
-  A Telegram assistant powered by AI and SQLite3, designed to understand context and assist with meaningful interactions.
+- [clinic-management-platform](https://github.com/ChernegaSergiy/clinic-management-platform) — three-tier web system for clinic automation built from scratch with PHP, Twig, and MySQL, covering patient scheduling, electronic medical records, resource management, and reporting
+- [battery-php-ext](https://github.com/ChernegaSergiy/battery-php-ext) — PHP extension for battery monitoring and power management
+- [Fyennyi/alerts-in-ua-php](https://github.com/Fyennyi/alerts-in-ua-php) — PHP library for real-time air raid alerts in Ukraine with PSR-16 caching and async support
+- [Fyennyi/async-cache-php](https://github.com/Fyennyi/async-cache-php) — asynchronous caching library for PHP
+- [netbsd-wii-monitor-bot](https://github.com/ChernegaSergiy/netbsd-wii-monitor-bot) — Telegram bot monitoring a website hosted on Nintendo Wii running NetBSD
+- [j3-server-setup](https://github.com/ChernegaSergiy/j3-server-setup) — setup guide for development on Android 5-6 with TermOnePlus, including manual Ngrok installation for armv7l and zsh with PowerLevel10k
+- [XAuth](https://github.com/xauth-ecosystem/XAuth) — authentication and authorization system for Minecraft: Bedrock Edition servers
+- [BindingManager](https://github.com/newlandpe/BindingManager) — PocketMine-MP plugin for binding player accounts to Telegram
+- [table-magic](https://github.com/ChernegaSergiy/table-magic) — PHP library for creating and manipulating console tables
+- [machinima-bot](https://github.com/ChernegaSergiy/machinima-bot) — Telegram chatbot supporting Ukrainian machinima creator community
 
-- **Machinima Bot**  
-  A centralized chatbot built to support and connect the Ukrainian machinima creator community.
+### Skills
 
-- **Alerts.in.ua PHP Client**  
-  A PHP library for real-time air raid alerts in Ukraine, supporting asynchronous operations and easy integration for developers.
+- Building tools that solve real problems with minimal complexity
+- Developing reusable PHP libraries with clean APIs
+- PHP, JavaScript, C, C++ programming languages
+- Repurposing unconventional hardware for practical development tasks
+- Familiar with popular tools such as SQLite, Telegram Bot API, and Git
 
-- **NetBSD Wii Monitor Bot**  
-  A Telegram bot that monitors the status of a website hosted on a Nintendo Wii running NetBSD, sending real-time notifications.
+### Contact
 
----
-
-## 🛠️ Technologies I Use
-
-- **PHP** — primary language for backend logic, bots, and libraries
-- **SQLite** — lightweight database for storing context and user data
-- **JavaScript** — for client-side enhancements and interaction
-- **HTML & CSS** — semantic markup and minimal, expressive styling
-- **Telegram Bot API** — core platform for communication tools
-- **Linux / Termux** — mobile-first and console-based development
-
----
-
-## 🌱 What I’m Working on Now
-
-- ✨ Developing a lightweight library for rendering clean, readable ASCII tables in PHP.
-- 🌍 Adding multilingual support to my Telegram bot (using IETF BCP 47 format).
-- 📚 Sharing ideas and discoveries related to code, design systems, and creative technical solutions.
-
----
-
-## 📫 How to Reach Me
-
-- Telegram: [@ChernegaSergiy](https://t.me/ChernegaSergiy)  
-- Email: [serhii.cherneha@cssm.pp.ua](mailto:serhii.cherneha@cssm.pp.ua)  
-
----
-
-_Thanks for stopping by and exploring my work. Let’s build something meaningful!_
+You can reach me at [serhii.cherneha@cssm.pp.ua](mailto:serhii.cherneha@cssm.pp.ua) or via Telegram [@ChernegaSergiy](https://t.me/ChernegaSergiy).
