@@ -21,7 +21,7 @@ Active involvement in the Minecraft: Bedrock community through [NewLand Games](h
 
 I'm working on various open-source tools and systems:
 
-- [clinic-management-platform](https://github.com/ChernegaSergiy/clinic-management-platform) — three-tier web system for clinic automation built from scratch with PHP, Twig, and MySQL, covering patient scheduling, electronic medical records, resource management, and reporting
+- [medcore-ua/medcore](https://github.com/medcore-ua/medcore) — three-tier web system for clinic automation built from scratch with PHP, Twig, and MySQL, covering patient scheduling, electronic medical records, resource management, and reporting
 - [battery-php-ext](https://github.com/ChernegaSergiy/battery-php-ext) — PHP extension for battery monitoring and power management
 - [Fyennyi/alerts-in-ua-php](https://github.com/Fyennyi/alerts-in-ua-php) — PHP library for real-time air raid alerts in Ukraine with PSR-16 caching and async support
 - [Fyennyi/async-cache-php](https://github.com/Fyennyi/async-cache-php) — asynchronous caching library for PHP
