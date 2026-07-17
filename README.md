@@ -30,7 +30,7 @@ I'm working on various open-source tools and systems:
 - [XAuth](https://github.com/xauth-ecosystem/XAuth) — authentication and authorization system for Minecraft: Bedrock Edition servers
 - [BindingManager](https://github.com/newlandpe/BindingManager) — PocketMine-MP plugin for binding player accounts to Telegram
 - [table-magic](https://github.com/ChernegaSergiy/table-magic) — PHP library for creating and manipulating console tables
-- [machinima-bot](https://github.com/ChernegaSergiy/machinima-bot) — Telegram chatbot supporting Ukrainian machinima creator community
+- [machinima-bot](https://github.com/morfeditorial/machinima-bot) — Telegram chatbot supporting Ukrainian machinima creator community
 
 ### Skills
 
