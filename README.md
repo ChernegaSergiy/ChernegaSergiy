@@ -11,7 +11,7 @@ My focus is on making technology clear, accessible, and genuinely useful through
 
 ### Background
 
-I am currently a 1st-year student at Vinnytsia National Technical University (VNTU), pursuing a degree in Automation, Computer-Integrated Technologies, and Robotics.
+I am currently a 2nd-year student at Vinnytsia National Technical University (VNTU), pursuing a degree in Automation, Computer-Integrated Technologies, and Robotics.
 
 I've been actively contributing to open-source projects since 2020, with focus on PHP development, Telegram bots, and Minecraft: Bedrock Edition tooling.
 
